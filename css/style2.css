@@ -1414,7 +1414,7 @@ letter-spacing: 2px;
     font-size: 30px;
     color: black;
     margin-top: 1200px;
-    margin-left: 520px;
+    margin-left: 570px;
     letter-spacing: 2px;
 }
 .line6{
@@ -1675,7 +1675,7 @@ letter-spacing: 2px;
     font-size: 30px;
     color: black;
     margin-top: 400px;
-    margin-left: 550;
+    margin-left: 600;
     letter-spacing: 2px;
 }
 .line7{
@@ -1765,7 +1765,7 @@ letter-spacing: 2px;
 .title12{
     font-size: 30px;
     color: black;
-    margin-left: 520px;
+    margin-left: 570px;
     letter-spacing: 2px;
 }
 .line8{
@@ -1784,7 +1784,7 @@ letter-spacing: 2px;
     background-color: white;
     border: 2px solid white;
     float: left;
-    margin-left: 40px;
+    margin-left: 120px;
     position: relative;
 }
 .child18::after{
